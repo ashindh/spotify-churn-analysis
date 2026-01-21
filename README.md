@@ -1,6 +1,6 @@
 # 🎵 Spotify User Churn Analysis & Dashboard
 
-![Dashboard Preview](Screenshot%202026-01-19%20211450.png)
+![Dashboard Preview](Screenshot 2026-01-19 211450.png)
 
 ## 📊 Project Overview
 This project focuses on analyzing user churn patterns within a Spotify dataset. The goal was to identify key factors contributing to user attrition (churn) and to visualize user engagement behaviors across different demographics, subscription plans, and devices.
@@ -36,11 +36,12 @@ Based on the analysis visualized in the Power BI report:
 * **Data Source:** `spotify_churn_dataset.csv`
 
 ## 📸 Dashboard Screenshots
-### Subscription & Churn Overview
-![Subscription Analysis](Screenshot%202026-01-19%20211537.png)
 
 ### User Engagement & Ad Analysis
-![Engagement Metrics](Screenshot%202026-01-19%20211603.png)
+![Engagement Metrics](Screenshot 2026-01-19 211537.png)
+
+### Audience Demographics
+![Subscription Analysis](Screenshot 2026-01-19 211603.png)
 
 ## 🚀 How to Run
 1.  Clone this repository.
